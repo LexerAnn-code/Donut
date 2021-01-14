@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ShapeAppearanceOverlay.Donut.SmallComponent" parent="ShapeAppearance.MaterialComponents.SmallComponent"></style>
+    <style name="ShapeAppearanceOverlay.Donut.MediumComponent" parent="ShapeAppearance.MaterialComponents.MediumComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">28dp</item>
+
+    </style>
+    <style name="ShapeAppearanceOverlay.Donut.Large.Component" parent="ShapeAppearance.MaterialComponents.LargeComponent"></style>
+
+</resources>
